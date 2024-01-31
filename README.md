@@ -18,3 +18,10 @@ Project Dump: A bunch of cpp files and projects I couldn't piece together fully
 Robber Language Translator: Takes an input and outputs the robber language translation
 
 The Waiting Game: A project that pratices list and Queues
+
+
+# Java
+*Coming Soon*
+
+# Python
+*Coming Soon*
