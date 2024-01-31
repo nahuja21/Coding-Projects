@@ -9,7 +9,7 @@ Do you see what I see: Code that reformats a number input using stacks and array
 
 Frequency Calculator: A simple coding project to calculate the frequency waves
 
-Lazy BST: A project practicing using binary search trees.
+Lazy BST: A project practicing binary search trees.
 
 Mario Grid Game: A grid based mario game that has 4 levels you need to beat. Game is run through RNG not player Inputs.
 
