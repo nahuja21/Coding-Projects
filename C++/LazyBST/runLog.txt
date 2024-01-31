@@ -1,0 +1,27 @@
+-----------FACULTY-----------
+ID#: 101
+Name: facultyone
+Year: dean
+Department: head
+Advisees: [ 2213264 64 42421096  ]
+-----------------------------------------------
+
+
+-----------STUDENTS----------
+ID: 26
+Name: studenttwo
+Year: sophmore
+Major: cs
+GPA: 4
+Advisor: 101
+-----------------------------------------------
+
+ID: 27
+Name: studentthree
+Year: junior
+Major: cs
+GPA: 4
+Advisor: 101
+-----------------------------------------------
+
+
